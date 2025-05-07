@@ -17,6 +17,10 @@ namespace Projeto1.Controllers
         {
             return View();
         }
+        public IActionResult Sobre()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
